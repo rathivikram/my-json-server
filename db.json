@@ -1,0 +1,89 @@
+{
+  "data": {
+      "status": "SUCCESS",
+      "request_type": "GET_IMEI_DEVICE_STATUS_UPDATES",
+      "data": [
+        {
+          "imei": "869409030053808",
+          "lat": 13.0842854,
+          "lng": 77.640121,
+          "old_state": 100,
+          "new_state": 1,
+          "distance_travelled": 0,
+          "timestamp": 1571732887656,
+          "booking_id": null
+        },
+        {
+          "imei": "869409030053808",
+          "lat": 13.0842854,
+          "lng": 77.640121,
+          "old_state": 100,
+          "new_state": 0,
+          "distance_travelled": 0,
+          "timestamp": 1571732855473,
+          "booking_id": null
+        },
+        {
+          "imei": "869409030053808",
+          "lat": 13.0842854,
+          "lng": 77.640121,
+          "old_state": 100,
+          "new_state": 1,
+          "distance_travelled": 0,
+          "timestamp": 1571732754656,
+          "booking_id": null
+        },
+        {
+          "imei": "869409030053808",
+          "lat": 13.0842854,
+          "lng": 77.640121,
+          "old_state": 100,
+          "new_state": 0,
+          "distance_travelled": 0,
+          "timestamp": 1571732751998,
+          "booking_id": null
+        },
+        {
+          "imei": "869409030053808",
+          "lat": 13.0842854,
+          "lng": 77.640121,
+          "old_state": 100,
+          "new_state": 1,
+          "distance_travelled": 0,
+          "timestamp": 1571698285086,
+          "booking_id": null
+        },
+        {
+          "imei": "869409030053808",
+          "lat": 13.0842854,
+          "lng": 77.640121,
+          "old_state": 100,
+          "new_state": 0,
+          "distance_travelled": 0,
+          "timestamp": 1571698284636,
+          "booking_id": null
+        },
+        {
+          "imei": "869409030053808",
+          "lat": 13.0842854,
+          "lng": 77.640121,
+          "old_state": 100,
+          "new_state": 1,
+          "distance_travelled": 0,
+          "timestamp": 1571698126372,
+          "booking_id": null
+        },
+        {
+          "imei": "869409030053808",
+          "lat": 13.0842854,
+          "lng": 77.640121,
+          "old_state": 100,
+          "new_state": 0,
+          "distance_travelled": 0,
+          "timestamp": 1571698125916,
+          "booking_id": null
+        }
+      ],
+      "timestamp": "2019-10-23T10:12:33.415Z"
+    }
+}
